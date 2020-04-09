@@ -1,0 +1,87 @@
+.top-section{
+    height:700px;
+    width: 100%}
+
+.half-width{
+   
+    float: left;
+    height: 100%;    
+}
+.container{
+    margin-bottom:60px;
+    
+   
+}
+#first{
+    width:35%;
+
+}
+#second{width: 65%;
+   padding-right:50px ;
+}
+
+.half-width h1 {
+    padding-top: 150px;
+    font-weight: 700;
+    padding-bottom: 20px;
+
+}
+p{
+    color: gray;
+    font-size:20px;
+    padding-bottom: 20px;
+}
+button{
+    background-color: black;
+    text-decoration: none;
+    color: #fff;
+    font-size:25px;
+    padding:10px 30px;
+    border-radius:10px;
+}
+#piku{
+    color: gray;
+    font-weight:400;
+}
+#caousel{
+    padding-right:60px ;
+}
+
+.sec-itroducer{
+    font-weight: 700;
+ 
+    
+}
+.see-all-ancr{
+    color: orange;
+    font-size:30px;
+}
+.price{
+    font-weight: 700;
+}
+.card{
+    border:none;
+
+} 
+.card-footer{
+    border: none;
+    background-color: white;
+}
+h5{
+    font-weight: 700;
+}
+#categories-head{
+    text-align: center;
+    font-weight: 700;
+}
+
+
+
+.catagories{
+    
+    height: 700px;
+}
+.footer{
+    text-align: center;
+    color: gray;
+}
